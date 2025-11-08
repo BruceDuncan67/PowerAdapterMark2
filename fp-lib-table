@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "adapterpcblib")(type "KiCad")(uri "${KIPRJMOD}/Library/adapterpcblib.pretty")(options "")(descr ""))
+)
